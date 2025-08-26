@@ -3,7 +3,7 @@ body {
     font-family: "Bai Jamjuree", sans-serif;
 }
 
-#container {
+#container{
     display: flex;
 }
 
@@ -42,6 +42,6 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 0.6rem;
+    font-size: 0, 6rem;
     margin-top: 0, 5rem;
 }
