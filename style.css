@@ -42,12 +42,12 @@ body {
     padding: 2rem;
 }
 
-.cartão__conteudo pergunta p{
+.cartão__conteudo__pergunta p{
     color: var(--text-color);
     font-weight: 500;
 }
 
-.cartão__conteudo resposta p{
+.cartão__conteudo__resposta p{
     color: var(--card-back-color);
     font-weight: 700;
 }
