@@ -5,12 +5,6 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python',
-    'O python é uma linguagem de programação'
-)
-
-criaCartao(
     'Geografia',
     'Qual a montanha mais alta do mundo?',
     'Monte Everest'
