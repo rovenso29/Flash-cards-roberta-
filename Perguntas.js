@@ -1,10 +1,4 @@
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
-)
-
-criaCartao(
     'Geografia',
     'Qual a montanha mais alta do mundo?',
     'Monte Everest'
