@@ -56,7 +56,6 @@ criaCartao(
     'Historia',
     'Que grande evento histórico aconteceu em 1822 no Brasil?',
     'Independência do Brasil'
-
 )
 
 
